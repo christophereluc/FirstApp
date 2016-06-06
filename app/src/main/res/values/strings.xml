@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Monstrous Pizza</string>
+    <string name="phone_number">(626) 339-2100</string>
+    <string name="address">557 N Azusa Ave, Covina, CA 91722</string>
+    <string name="cd_pizza">Pizza</string>
+    <string name="description"><![CDATA[Easygoing pizzeria offering pies with housemade dough plus sandwiches, wings & pasta dishes.]]></string>
+</resources>
